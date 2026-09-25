@@ -1,2 +1,2 @@
-# sql-data-analysis
-SQL-based analysis of e-commerce sales data using SQL Server.
+infotainment-data-insights
+Data analysis of a fictional automotive infotainment testing dataset using SQL Server.
