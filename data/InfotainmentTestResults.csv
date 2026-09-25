@@ -1,1 +1,40 @@
-
+﻿1,2026-01-05,Nova X1,Bluetooth,Functional,Pass,NULL,12
+2,2026-01-06,Nova X1,Audio,Functional,Fail,Medium,18
+3,2026-01-07,Astra M2,Navigation,Regression,Pass,NULL,20
+4,2026-01-08,Nova X1,Radio,Smoke,Pass,NULL,10
+5,2026-01-09,Astra M2,Bluetooth,Regression,Fail,High,16
+6,2026-01-10,Orion Z3,Android Auto,Functional,Pass,NULL,25
+7,2026-01-11,Orion Z3,Apple CarPlay,Functional,Fail,Medium,22
+8,2026-01-12,Nova X1,User Profile,Regression,Pass,NULL,14
+9,2026-01-13,Astra M2,Language Settings,Functional,Fail,Low,11
+10,2026-01-14,Orion Z3,Home Screen,Smoke,Pass,NULL,8
+11,2026-02-03,Nova X1,Bluetooth,Regression,Fail,High,19
+12,2026-02-04,Astra M2,Audio,Functional,Pass,NULL,15
+13,2026-02-05,Orion Z3,Navigation,Regression,Fail,Medium,24
+14,2026-02-06,Nova X1,Radio,Functional,Pass,NULL,9
+15,2026-02-07,Astra M2,Android Auto,Smoke,Pass,NULL,17
+16,2026-02-08,Orion Z3,Bluetooth,Functional,Fail,Critical,21
+17,2026-02-09,Nova X1,Apple CarPlay,Regression,Pass,NULL,23
+18,2026-02-10,Astra M2,User Profile,Functional,Fail,Low,13
+19,2026-02-11,Orion Z3,Language Settings,Regression,Pass,NULL,12
+20,2026-02-12,Nova X1,Home Screen,Smoke,Pass,NULL,7
+21,2026-03-03,Astra M2,Bluetooth,Functional,Pass,NULL,13
+22,2026-03-04,Orion Z3,Audio,Regression,Fail,Medium,17
+23,2026-03-05,Nova X1,Navigation,Functional,Pass,NULL,21
+24,2026-03-06,Astra M2,Radio,Smoke,Fail,Low,10
+25,2026-03-07,Orion Z3,Android Auto,Regression,Fail,High,26
+26,2026-03-08,Nova X1,Bluetooth,Functional,Pass,NULL,11
+27,2026-03-09,Astra M2,Apple CarPlay,Functional,Pass,NULL,19
+28,2026-03-10,Orion Z3,User Profile,Regression,Fail,Medium,15
+29,2026-03-11,Nova X1,Language Settings,Functional,Pass,NULL,10
+30,2026-03-12,Astra M2,Home Screen,Smoke,Fail,High,9
+31,2026-04-02,Orion Z3,Bluetooth,Regression,Pass,NULL,14
+32,2026-04-03,Nova X1,Audio,Functional,Pass,NULL,16
+33,2026-04-04,Astra M2,Navigation,Regression,Fail,High,22
+34,2026-04-05,Orion Z3,Radio,Functional,Pass,NULL,8
+35,2026-04-06,Nova X1,Android Auto,Regression,Fail,Medium,27
+36,2026-04-07,Astra M2,Bluetooth,Functional,Pass,NULL,12
+37,2026-04-08,Orion Z3,Apple CarPlay,Smoke,Pass,NULL,20
+38,2026-04-09,Nova X1,User Profile,Regression,Fail,Low,14
+39,2026-04-10,Astra M2,Language Settings,Functional,Pass,NULL,11
+40,2026-04-11,Orion Z3,Home Screen,Smoke,Pass,NULL,8
